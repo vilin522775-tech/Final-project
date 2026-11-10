@@ -23,28 +23,21 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About the Team",
     "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Sean, Vivian Quarto Website",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\nThis is a test."
+    "text": "Name: Vivian (林佳荺)\n\nHobbies: reading, watching YouTube videos, listening to music, volleyball\nSocial Media: vilin1024"
   },
   {
     "objectID": "about.html#intro",
     "href": "about.html#intro",
-    "title": "About",
-    "section": "Intro",
-    "text": "Intro\nName: Vivian (林佳荺)\n\nHobbies: reading, watching YouTube videos, listening to music, volleyball\nSocial Media: vilin1024"
+    "title": "About the Team",
+    "section": "",
+    "text": "Name: Vivian (林佳荺)\n\nHobbies: reading, watching YouTube videos, listening to music, volleyball\nSocial Media: vilin1024"
   },
   {
     "objectID": "about.html#intro-1",
     "href": "about.html#intro-1",
-    "title": "About",
+    "title": "About the Team",
     "section": "Intro",
     "text": "Intro\nName: Sean (王翔宇)\n\nHobbies: watching baseball game, playing video game, reading\nSocial Media: xiangyu2157"
   }
