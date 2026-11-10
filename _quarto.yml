@@ -2,15 +2,6 @@ project:
   type: website
   output-dir: docs
   
-  
-  
-  
-  
-  
-  
-  
-  
-
 website:
   title: "Sean, Vivian Quarto Website"
   navbar:
@@ -18,6 +9,8 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - Result.qmd
+      - data.qmd
 
 format:
   html:
