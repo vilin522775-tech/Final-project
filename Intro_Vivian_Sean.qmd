@@ -1,0 +1,24 @@
+---
+title: "Introduction"
+author: "Vivian, Sean"
+format: revealjs
+editor: visual
+---
+
+## Intro
+
+Name: Vivian (林佳荺)
+
+- Hobbies: reading, watching YouTube videos, listening to music, volleyball
+- Social Media: [vilin1024](https://Instagram.com/vivianlin1024)
+
+## Intro
+
+Name: Sean (王翔宇)
+
+- Hobbies: watching baseball game, playing video game, reading
+- Social Media: [xiangyu2157](https://Instagram.com/xiangyu2157)
+
+## Intro
+
+Name: \_\_\_\_\_\_
