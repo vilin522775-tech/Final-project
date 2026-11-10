@@ -1,3 +1,21 @@
-project
+project:
   type: website
-  output-dir: docs
+
+website:
+  title: "Sean, Vivian Quarto Website"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+editor: visual
+
