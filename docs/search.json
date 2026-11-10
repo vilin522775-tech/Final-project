@@ -1,24 +1,10 @@
 [
   {
-    "objectID": "Intro_Vivian_Sean.html#intro",
-    "href": "Intro_Vivian_Sean.html#intro",
-    "title": "Introduction",
-    "section": "Intro",
-    "text": "Intro\nName: Vivian (林佳荺)\n\nHobbies: reading, watching YouTube videos, listening to music, volleyball\nSocial Media: vilin1024"
-  },
-  {
-    "objectID": "Intro_Vivian_Sean.html#intro-1",
-    "href": "Intro_Vivian_Sean.html#intro-1",
-    "title": "Introduction",
-    "section": "Intro",
-    "text": "Intro\nName: Sean (王翔宇)\n\nHobbies: watching baseball game, playing video game, reading\nSocial Media: xiangyu2157"
-  },
-  {
-    "objectID": "Intro_Vivian_Sean.html#intro-2",
-    "href": "Intro_Vivian_Sean.html#intro-2",
-    "title": "Introduction",
-    "section": "Intro",
-    "text": "Intro\nName: ______"
+    "objectID": "Results.html",
+    "href": "Results.html",
+    "title": "Results.qmd",
+    "section": "",
+    "text": "An exercise to add new pages to website."
   },
   {
     "objectID": "about.html",
@@ -42,13 +28,6 @@
     "text": "Intro\nName: Sean (王翔宇)\n\nHobbies: watching baseball game, playing video game, reading\nSocial Media: xiangyu2157"
   },
   {
-    "objectID": "Results.html",
-    "href": "Results.html",
-    "title": "Results.qmd",
-    "section": "",
-    "text": "An exercise to add new pages to website."
-  },
-  {
     "objectID": "data.html",
     "href": "data.html",
     "title": "data.qmd",
@@ -68,5 +47,26 @@
     "title": "data.qmd",
     "section": "Running Code",
     "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "Intro_Vivian_Sean.html#intro",
+    "href": "Intro_Vivian_Sean.html#intro",
+    "title": "Introduction",
+    "section": "Intro",
+    "text": "Intro\nName: Vivian (林佳荺)\n\nHobbies: reading, watching YouTube videos, listening to music, volleyball\nSocial Media: vilin1024"
+  },
+  {
+    "objectID": "Intro_Vivian_Sean.html#intro-1",
+    "href": "Intro_Vivian_Sean.html#intro-1",
+    "title": "Introduction",
+    "section": "Intro",
+    "text": "Intro\nName: Sean (王翔宇)\n\nHobbies: watching baseball game, playing video game, reading\nSocial Media: xiangyu2157"
+  },
+  {
+    "objectID": "Intro_Vivian_Sean.html#intro-2",
+    "href": "Intro_Vivian_Sean.html#intro-2",
+    "title": "Introduction",
+    "section": "Intro",
+    "text": "Intro\nName: ______"
   }
 ]
