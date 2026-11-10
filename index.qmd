@@ -1,4 +1,3 @@
 ---
 title: "Sean, Vivian Quarto Website"
 ---
-
