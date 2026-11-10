@@ -40,5 +40,33 @@
     "title": "About the Team",
     "section": "Intro",
     "text": "Intro\nName: Sean (王翔宇)\n\nHobbies: watching baseball game, playing video game, reading\nSocial Media: xiangyu2157"
+  },
+  {
+    "objectID": "Results.html",
+    "href": "Results.html",
+    "title": "Results.qmd",
+    "section": "",
+    "text": "An exercise to add new pages to website."
+  },
+  {
+    "objectID": "data.html",
+    "href": "data.html",
+    "title": "data.qmd",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "data.html#quarto",
+    "href": "data.html#quarto",
+    "title": "data.qmd",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "data.html#running-code",
+    "href": "data.html#running-code",
+    "title": "data.qmd",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
   }
 ]
