@@ -1,5 +1,15 @@
 project:
   type: website
+  output-dir: docs
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 website:
   title: "Sean, Vivian Quarto Website"
