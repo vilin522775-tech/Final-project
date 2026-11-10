@@ -1,11 +1,6 @@
 ---
-title: "About"
+title: "About the Team"
 ---
-
-About this site
-
-
-
 ## Intro
 
 Name: Vivian (林佳荺)
